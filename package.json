@@ -1,7 +1,7 @@
 {
   "name": "uno-annum-api",
   "version": "1.0.0",
-  "description": "Node.js API for the Uno Annum project. Uno Annum is a project to enable people to view and create transformation which can be captured in a single image per day for a year or less.",
+  "description": "Node.js API for the Uno Annum project. Uno Annum is a project to enable people to view and create transformations which can be captured in a single image per day for a year or less.",
   "main": "app.js",
   "scripts": {
     "test": "test",
